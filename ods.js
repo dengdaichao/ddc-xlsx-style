@@ -1,4 +1,5 @@
-/* ods.js (C) 2014 SheetJS -- http://sheetjs.com */
+/* ods.js (C) 2019-10-24  SheetJS -- http://sheetjs.com */
+
 /* vim: set ts=2: */
 /*jshint -W041 */
 var ODS = {};
