@@ -1,6 +1,6 @@
 {
   "name": "ddc-xlsx-style",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "yinxg",
   "description": "Excel (XLSB/XLSX/XLSM/XLS/XML) and ODS spreadsheet parser and writer (extended to enable read/write of cell formats with xlsx files)",
   "keywords": [
@@ -55,5 +55,5 @@
   "__npminstall_done": "Wed Jun 12 2019 16:43:49 GMT+0800 (CST)",
   "_from": "xlsx-style@0.8.13",
   "_resolved": "https://registry.npm.taobao.org/xlsx-style/download/xlsx-style-0.8.13.tgz",
-  "homepage": "https://github.com/protobi/js-xlsx/tree/beta#readme"
+  "homepage": "git+https://github.com/dengdaichao/ddc-xlsx-style.git"
 }
