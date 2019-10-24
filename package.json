@@ -34,7 +34,6 @@
   },
   "repository": {
     "type": "git",
-//    "url": "git://github.com/protobi/js-xlsx.git#beta"
     "url": "git+https://github.com/dengdaichao/ddc-xlsx-style.git"
   },
   "scripts": {
